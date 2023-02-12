@@ -34,7 +34,7 @@ The following points are roughly as they should be. You should do as you are acc
 1. Get (one or all), create, modify and delete posts and comments
 2. Get all groups or one specific 
 3. Get and create subscriptions
-4. Get access and refresh tokens using JWT-tokens and create users using djoser (see Examples of usage)
+4. Get access and refresh tokens using JWT-tokens and create users using djoser (see "Examples of usage")
 
 ## Examples of usage
 1. Sending a request to make a post
