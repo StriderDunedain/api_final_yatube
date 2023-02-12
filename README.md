@@ -24,9 +24,11 @@ The following points are roughly as they should be. You should do as you are acc
  - `pip install -r requirements.txt`
 5. Change directory
  - `cd yatube_api`
-6. Run server
+6. Make migrations
+ - `python manage.py migrate`
+7. Run server
  - `python manage.py runserver`
-7. Enjoy making requests to our service :)
+8. Enjoy making requests to our service :)
 
 ## What this current-version API can do:
 1. Get (one or all), create, modify and delete posts and comments
