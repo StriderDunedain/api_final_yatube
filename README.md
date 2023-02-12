@@ -11,7 +11,7 @@ This is open-source API for the one and only network great devs use - Yatube.
 What it's for:
  + All the functions of Yatube packed in a concise manner for you to use and, hopefully, enjoy
 
-## How to install on your VM
+## How to install it on your VM
 The following points are roughly as they should be. You should do as you are accustomed to - it's your machine, you know it best
 
 1. Clone it
