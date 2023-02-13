@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# api_final
-api final
-=======
 # API for Yatube social network
 This is open-source API for the one and only network great devs use - Yatube.
 
