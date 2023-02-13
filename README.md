@@ -53,4 +53,3 @@ The following points are roughly as they should be. You should do as you are acc
 ### Afterword
 We hope you enjoy our API and Yatube :)
 If you see any problems along the way or simply want to share your experience and ideas regarding our API feel free to reach out to us at maks.truxinov@yandex.ru 
->>>>>>> 8653300425837dd02ed49e193db60543160afa4c
